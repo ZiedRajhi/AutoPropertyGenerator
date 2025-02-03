@@ -1,0 +1,6 @@
+C:\workspace\PocAutoProperty\AutoPropertyGenerator\TestAutoProperty\obj\Debug\net9.0\TestAutoProperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\PocAutoProperty\AutoPropertyGenerator\TestAutoProperty\obj\Debug\net9.0\TestAutoProperty.AssemblyInfoInputs.cache
+C:\workspace\PocAutoProperty\AutoPropertyGenerator\TestAutoProperty\obj\Debug\net9.0\TestAutoProperty.AssemblyInfo.cs
+C:\workspace\PocAutoProperty\AutoPropertyGenerator\TestAutoProperty\obj\Debug\net9.0\TestAutoProperty.csproj.CoreCompileInputs.cache
+C:\workspace\PocAutoProperty\AutoPropertyGenerator\TestAutoProperty\obj\Debug\net9.0\TestAutoProperty.sourcelink.json
+C:\workspace\PocAutoProperty\AutoPropertyGenerator\TestAutoProperty\obj\Debug\net9.0\TestAutoProperty.csproj.AssemblyReference.cache
