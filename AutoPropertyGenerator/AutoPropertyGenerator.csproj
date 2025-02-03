@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>netstandard2.0</TargetFramework>
+		<OutputType>Library</OutputType>
+
+		<!-- Obligatoire pour un Source Generator -->
+		<LangVersion>Latest</LangVersion>
+		<IsRoslynComponent>true</IsRoslynComponent>
+
+		<!-- Informations du package NuGet -->
+		<PackageId>AutoPropertyGenerator</PackageId>
+		<Version>1.0.0</Version>
+		<Authors>TonNom</Authors>
+		<Company>TaSociété</Company>
+		<Description>Un Source Generator pour ajouter automatiquement { get; set; } aux propriétés des classes.</Description>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<PackageTags>SourceGenerator CSharp .NET</PackageTags>
+		<RepositoryUrl>https://github.com/ZiedRajhi/AutoPropertyGenerator</RepositoryUrl>
+
+		<!-- Important pour un Source Generator -->
+		<IncludeBuildOutput>true</IncludeBuildOutput>
+		<EmitCompilerGeneratedFiles>true</EmitCompilerGeneratedFiles>
+		<AnalysisLevel>latest</AnalysisLevel>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<!-- Références obligatoires pour un Source Generator -->
+		<PackageReference Include="Microsoft.CodeAnalysis.CSharp" Version="4.10.0" PrivateAssets="all" />
+		<PackageReference Include="Microsoft.CodeAnalysis.Analyzers" Version="3.3.4" PrivateAssets="all" />
+		<PackageReference Include="System.Collections.Immutable" Version="9.0.1" PrivateAssets="all" />
+	</ItemGroup>
+</Project>
