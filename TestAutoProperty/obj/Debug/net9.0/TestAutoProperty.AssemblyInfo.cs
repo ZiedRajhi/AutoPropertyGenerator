@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestAutoProperty")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19f7b53f5b048fd51e7c243701fd976144966245")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8212610b409a94d7d1c7f804e34c824dd578a12")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestAutoProperty")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestAutoProperty")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

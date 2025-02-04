@@ -11,13 +11,16 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("AutoPropertyGenerator")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ZiedRajhi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85a4a92504cf9c22a730282b7ac82f14c8670ef0")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("Un Source Generator pour ajouter automatiquement { get; set; } aux propriétés des" +
+    " classes.")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1+f8212610b409a94d7d1c7f804e34c824dd578a12")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoPropertyGenerator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoPropertyGenerator")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("1.0.1.0")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/ZiedRajhi/AutoPropertyGenerator")]
 
 // Généré par la classe MSBuild WriteCodeFragment.
 

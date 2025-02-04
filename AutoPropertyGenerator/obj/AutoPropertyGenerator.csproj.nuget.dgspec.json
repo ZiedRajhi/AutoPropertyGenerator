@@ -5,7 +5,7 @@
   },
   "projects": {
     "C:\\workspace\\PocAutoProperty\\AutoPropertyGenerator\\AutoPropertyGenerator\\AutoPropertyGenerator.csproj": {
-      "version": "1.0.2",
+      "version": "1.0.1",
       "restore": {
         "projectUniqueName": "C:\\workspace\\PocAutoProperty\\AutoPropertyGenerator\\AutoPropertyGenerator\\AutoPropertyGenerator.csproj",
         "projectName": "AutoPropertyGenerator",
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "netstandard2.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
             "projectReferences": {}
           }
         },
@@ -47,18 +47,29 @@
         "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "dependencies": {
             "Microsoft.CodeAnalysis.Analyzers": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.3.2, )"
+              "version": "[3.3.4, )"
             },
             "Microsoft.CodeAnalysis.CSharp": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[4.0.1, )"
+              "version": "[4.10.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Collections.Immutable": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.1, )"
             }
           },
           "imports": [
@@ -72,30 +83,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            }
-          ],
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

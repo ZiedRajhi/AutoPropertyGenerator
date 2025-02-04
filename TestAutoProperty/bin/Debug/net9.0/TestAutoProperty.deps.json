@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "TestAutoProperty/1.0.0": {
+        "dependencies": {
+          "AutoPropertyGenerator": "1.0.0"
+        },
+        "runtime": {
+          "TestAutoProperty.dll": {}
+        }
+      },
+      "AutoPropertyGenerator/1.0.0": {
+        "runtime": {
+          "AutoPropertyGenerator.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestAutoProperty/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AutoPropertyGenerator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

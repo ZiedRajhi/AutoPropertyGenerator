@@ -1,6 +1,0 @@
-C:\workspace\PocAutoProperty\AutoPropertyGenerator\AutoPropertyGenerator\obj\Debug\netcoreapp3.1\AutoPropertyGenerator.csproj.AssemblyReference.cache
-C:\workspace\PocAutoProperty\AutoPropertyGenerator\AutoPropertyGenerator\obj\Debug\netcoreapp3.1\AutoPropertyGenerator.GeneratedMSBuildEditorConfig.editorconfig
-C:\workspace\PocAutoProperty\AutoPropertyGenerator\AutoPropertyGenerator\obj\Debug\netcoreapp3.1\AutoPropertyGenerator.AssemblyInfoInputs.cache
-C:\workspace\PocAutoProperty\AutoPropertyGenerator\AutoPropertyGenerator\obj\Debug\netcoreapp3.1\AutoPropertyGenerator.AssemblyInfo.cs
-C:\workspace\PocAutoProperty\AutoPropertyGenerator\AutoPropertyGenerator\obj\Debug\netcoreapp3.1\AutoPropertyGenerator.csproj.CoreCompileInputs.cache
-C:\workspace\PocAutoProperty\AutoPropertyGenerator\AutoPropertyGenerator\obj\Debug\netcoreapp3.1\AutoPropertyGenerator.sourcelink.json

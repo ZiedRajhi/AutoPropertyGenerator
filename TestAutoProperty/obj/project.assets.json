@@ -2,9 +2,9 @@
   "version": 3,
   "targets": {
     "net9.0": {
-      "AutoPropertyGenerator/1.0.2": {
+      "AutoPropertyGenerator/1.0.1": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
+        "framework": ".NETStandard,Version=v2.0",
         "compile": {
           "bin/placeholder/AutoPropertyGenerator.dll": {}
         },
@@ -15,7 +15,7 @@
     }
   },
   "libraries": {
-    "AutoPropertyGenerator/1.0.2": {
+    "AutoPropertyGenerator/1.0.1": {
       "type": "project",
       "path": "../AutoPropertyGenerator/AutoPropertyGenerator.csproj",
       "msbuildProject": "../AutoPropertyGenerator/AutoPropertyGenerator.csproj"
@@ -23,7 +23,7 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
-      "AutoPropertyGenerator >= 1.0.2"
+      "AutoPropertyGenerator >= 1.0.1"
     ]
   },
   "packageFolders": {
@@ -95,7 +95,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
