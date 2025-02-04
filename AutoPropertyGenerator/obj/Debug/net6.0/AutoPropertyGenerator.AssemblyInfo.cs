@@ -11,13 +11,14 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("AutoPropertyGenerator")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ZiedRajhi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85a4a92504cf9c22a730282b7ac82f14c8670ef0")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("Auto-generates properties for classes marked with [AutoProperty].")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.2.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.2+19f7b53f5b048fd51e7c243701fd976144966245")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoPropertyGenerator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoPropertyGenerator")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("1.0.2.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.
 

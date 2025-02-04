@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8+OksXHuG+c=",
+  "dgSpecHash": "5fGK526Ky2Q=",
   "success": true,
   "projectFilePath": "C:\\workspace\\PocAutoProperty\\AutoPropertyGenerator\\TestAutoProperty\\TestAutoProperty.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Administrateur\\.nuget\\packages\\autopropertygenerator\\1.0.0\\autopropertygenerator.1.0.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

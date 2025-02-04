@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net9.0": {
-      "AutoPropertyGenerator/1.0.0": {
+      "AutoPropertyGenerator/1.0.2": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
@@ -15,7 +15,7 @@
     }
   },
   "libraries": {
-    "AutoPropertyGenerator/1.0.0": {
+    "AutoPropertyGenerator/1.0.2": {
       "type": "project",
       "path": "../AutoPropertyGenerator/AutoPropertyGenerator.csproj",
       "msbuildProject": "../AutoPropertyGenerator/AutoPropertyGenerator.csproj"
@@ -23,7 +23,7 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
-      "AutoPropertyGenerator >= 1.0.0"
+      "AutoPropertyGenerator >= 1.0.2"
     ]
   },
   "packageFolders": {
